@@ -1,2 +1,2 @@
 # internship
-Hello this is a new project
+Hello this is a new project regarding intership
